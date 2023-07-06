@@ -22,6 +22,8 @@ rm -rf Prank-Call
 git clone https://github.com/Dra-ID/Prank-Call
 cd Prank-Call
 ls
+pip install inquirer
+pip3 install -r requirements.txt
 git pull
 python run.py
 ```
