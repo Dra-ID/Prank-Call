@@ -40,4 +40,4 @@ python run.py
 # Lihat Tutorial 
 
 <li><code>Klik Di Bawah
-<a href="https://youtu.be/4GoOi7mmDCw>Klik disini</a></code></li> 
+<a href="https://youtu.be/4GoOi7mmDCw">Klik disini</a></code></li> 
