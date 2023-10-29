@@ -27,6 +27,10 @@ pip install -r requirements.txt
 git pull
 python run.py
 ```
+<div align="center">
+  <img src="Data/Screenshot_20231029-213646.jpg">
+  <br>
+  <br>
 
 # Subscribe 
 <p align="center">
