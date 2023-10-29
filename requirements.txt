@@ -3,3 +3,4 @@ beautifulsoup4
 datetime
 rich
 inquirer
+fake_useragent
