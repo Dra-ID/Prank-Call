@@ -1,6 +1,10 @@
 # Prank-Call
 Script Untuk Spam Call 😻
 
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kasih+Star+Lah+Njinh+Banget" alt="UwU">
+  
 # info Script
 
 <p align="center">
