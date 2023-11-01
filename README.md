@@ -22,6 +22,7 @@ pkg install python
 pkg install python-pip
 pkg install python2
 pkg install git
+cd
 rm -rf Prank-Call
 git clone https://github.com/Dra-ID/Prank-Call
 cd Prank-Call
